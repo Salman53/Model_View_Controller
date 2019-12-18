@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVC</string>
+    <string name="question1">Islamabad is the capital</string>
+    <string name="question2">Sindh is the capital</string>
+    <string name="question3">karachi is the capital</string>
+
+</resources>
